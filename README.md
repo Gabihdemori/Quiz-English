@@ -10,5 +10,5 @@ Tela inicial:
 <img src="tela inicial.png" alt="Texto Alternativo">
 Exemplo do quiz (questão 3):
 <img src="exemplo.png" alt="Texto Alternativo">
-Página final e ultima pergunta do Quiz-English:
+Página final e última pergunta do Quiz-English:
 <img src="ultimapag.png" alt="Texto Alternativo">
