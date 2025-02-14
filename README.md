@@ -13,5 +13,5 @@ Exemplo do quiz (questão 3):
 Página final e última pergunta do Quiz-English:
 <img src="ultimapag.png" alt="Texto Alternativo">
 
--Nome do professor que testou o quiz
--Comentário do professor sobre o quiz, se gostou, se faria alguma sugestão de melhoria.
+- Nome do professor que testou o quiz
+- Comentário do professor sobre o quiz, se gostou, se faria alguma sugestão de melhoria.
